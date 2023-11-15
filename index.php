@@ -23,15 +23,14 @@ include 'header.php';
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h6>"Selamat datang di beasinfo penyedia informasi beasiswa terlengkap! Temukan peluang pendidikan yang memandu langkahmu menuju masa depan cerah. Mulai petualanganmu sekarang dan raih impian pendidikanmu dengan panduan terpercaya kami. Informasi beasiswa terbaru, tips aplikasi, dan sumber inspirasi untuk meraih kesuksesan akademis. Bersama, kita bangun jalan menuju prestasi tanpa batas. Mari menjelajahi dunia beasiswa bersama-sama!".</h6>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Pilihlah kami sebagai panduan beasiswamu karena kami menyajikan informasi terkini secara lengkap, memudahkan langkahmu menuju kesuksesan pendidikan
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bi bi-check-circle"></i>Kami bukan hanya website info beasiswa biasa. Pilihlah kami untuk pengalaman terbaik dalam menjelajahi dunia beasiswa dan meraih impian pendidikanmu .</li>
+              <li><i class="bi bi-check-circle"></i> Bergabunglah dengan ribuan pencari beasiswa yang memilih kami setiap hari. Kami memberikan lebih dari sekadar data—kami membuka pintu menuju masa depan pendidikanmu.</li>
+              <li><i class="bi bi-check-circle"></i> Kami adalah teman setia dalam perjalanan beasiswamu. Pilihlah kami karena kami tidak hanya memberi informasi, tetapi juga memberdayakanmu untuk mengambil keputusan terbaik.</li>
             </ul>
             <p>
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
