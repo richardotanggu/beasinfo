@@ -61,9 +61,6 @@
           <li class="dropdown"><a href="#"><span>Event</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Webinar</a></li>
-              <li><a href="#">Sharing Session</a></li>
-              <li><a href="#">Workshop</a></li>
-              <li><a href="#">Edu Fire</a></li>
             </ul>
           </li>
           <li><a href="about.php">Tentang</a></li>
@@ -72,7 +69,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="login/index.php" class="get-started-btn">Login</a>
+      <a href="login/login.php" class="get-started-btn">Login</a>
 
     </div>
   </header><!-- End Header -->
