@@ -8,13 +8,23 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = mysqli_real_escape_string($conn, $username);
     $password = mysqli_real_escape_string($conn, $password);
 
-    $sql = "SELECT * FROM users WHERE username='$username' AND password='$password'";
-    $result = $conn->query($sql);
+    $stmt = $conn->prepare("SELECT * FROM users WHERE username=? AND password=?");
+    $stmt->bind_param("ss", $username, $password);
 
-    if ($result->num_rows > 0) {
-        header("location: welcome.php");
+    $result = $stmt->execute();
+
+    if ($result) {
+        $stmt->store_result();
+
+        if ($stmt->num_rows > 0) {
+            header("location: welcome.php");
+        } else {
+            $error = "Username atau password salah. Silahkan coba lagi!!";
+        }
+
+        $stmt->close();
     } else {
-        $error = "Username atau password salah. Silahkan coba lagi!!";
+        echo "Error: " . $stmt->error;
     }
 
     $conn->close();
