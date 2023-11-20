@@ -29,11 +29,13 @@ include 'header.php';
             </p>
             <ul>
               <li><i class="bi bi-check-circle"></i>Kami bukan hanya website info beasiswa biasa. Pilihlah kami untuk pengalaman terbaik dalam menjelajahi dunia beasiswa dan meraih impian pendidikanmu .</li>
-              <li><i class="bi bi-check-circle"></i> Bergabunglah dengan ribuan pencari beasiswa yang memilih kami setiap hari. Kami memberikan lebih dari sekadar data—kami membuka pintu menuju masa depan pendidikanmu.</li>
+              <li><i class="bi bi-check-circle"></i> Bergabunglah dengan ribuan pencari beasiswa yang memilih kami setiap hari. Kami memberikan lebih dari sekadar data. Kami membuka pintu menuju masa depan pendidikanmu.</li>
               <li><i class="bi bi-check-circle"></i> Kami adalah teman setia dalam perjalanan beasiswamu. Pilihlah kami karena kami tidak hanya memberi informasi, tetapi juga memberdayakanmu untuk mengambil keputusan terbaik.</li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            Beasiswa Terbuka:<br>
+             Jangan lewatkan kesempatan ini untuk meraih gelar akademismu.<br>
+              Daftar sekarang!!
             </p>
 
           </div>

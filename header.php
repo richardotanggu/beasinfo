@@ -53,14 +53,14 @@
           <li><a href="info.php">Info Beasiswa</a></li>
           <li class="dropdown"><a href="#"><span>Bimbingan Persiapan Pendaftaran</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Persiapan Dokumen</a></li>
-              <li><a href="#">Tes Beasiswa</a></li>
-              <li><a href="#">Tes Wawancara</a></li>
+              <li><a href="dokumen.php">Persiapan Dokumen</a></li>
+              <li><a href="tesbeasiswa.php">Tes Beasiswa</a></li>
+              <li><a href="teswawancara.php">Tes Wawancara</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Event</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Webinar</a></li>
+              <li><a href="webinar.php">Webinar</a></li>
             </ul>
           </li>
           <li><a href="about.php">Tentang</a></li>
