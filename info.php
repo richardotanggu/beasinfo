@@ -20,15 +20,15 @@ include 'header.php';
                 <!-- Beasiswa 1 -->
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="course-item">
-                        <img src="assets/img/beasiswa-1.jpg" class="img-fluid" alt="...">
+                        <img src="assets/img/pendaftaran1.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                                <h4>Beasiswa A</h4>
-                                <p class="price">$1000</p>
+                                <a href="beasiswa-details.html"> <h4>Selengkapnya</h4></a>
+                                <p class="price"></p>
                             </div>
 
-                            <h3><a href="beasiswa-details.html">Nama Beasiswa A</a></h3>
-                            <p>Deskripsi singkat mengenai Beasiswa A. Beasiswa ini diberikan kepada mahasiswa yang memenuhi syarat tertentu.</p>
+                            <h3>Beasiswa Baznas S-1 di Cimahi</h3>
+                            <p>Badan Amil Zakat Nasional (BAZNAS) membuka Beasiswa Cendekia BAZNAS (BCB) Dalam Negeri bagi tingkat Diploma-IV (D4) dan sarjana (S1) yang sedang menempuh studi (ongoing) di kampus mitra Beasiswa BAZNAS.</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/beasiswa-logo-1.jpg" class="img-fluid" alt="">
@@ -47,15 +47,17 @@ include 'header.php';
                 <!-- Beasiswa 2 -->
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                     <div class="course-item">
-                        <img src="assets/img/beasiswa-2.jpg" class="img-fluid" alt="...">
+                        <img src="assets/img/beasinfo2.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                                <h4>Beasiswa B</h4>
-                                <p class="price">$800</p>
+                            <a href="beasiswa-details.html"><h4>Selengkapnya</h4></a>
+                                <p class="price"></p>
                             </div>
 
-                            <h3><a href="beasiswa-details.html">Nama Beasiswa B</a></h3>
-                            <p>Deskripsi singkat mengenai Beasiswa B. Beasiswa ini diberikan kepada mahasiswa yang memenuhi syarat tertentu.</p>
+                            <h3>Beasiswa Telkom University 2024</h3>
+                            <p>Detail Pendaftaran mulai dari timeline dan persyaratan kamu bisa geser pada postingan di atas yaa. Jangan sampai ke skip, siapa tahu kamu jadi salah satu yang beruntung!
+
+Beasiswa ini berlangsung mulai tanggal 6 November - 10 Desember 2024</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/beasiswa-logo-2.jpg" class="img-fluid" alt="">
@@ -74,15 +76,16 @@ include 'header.php';
                 <!-- Beasiswa 3 -->
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
                     <div class="course-item">
-                        <img src="assets/img/beasiswa-3.jpg" class="img-fluid" alt="...">
+                        <img src="assets/img/beasinfo 3.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                                <h4>Beasiswa C</h4>
-                                <p class="price">$1200</p>
+                            <a href="beasiswa-details.html"><h4>Selengkapnya</h4></a>
+                                <p class="price"></p>
                             </div>
 
-                            <h3><a href="beasiswa-details.html">Nama Beasiswa C</a></h3>
-                            <p>Deskripsi singkat mengenai Beasiswa C. Beasiswa ini diberikan kepada mahasiswa yang memenuhi syarat tertentu.</p>
+                            <h3>Beasiswa Santri Baznas 2023</h3>
+                            <p>Beasiswa Santri BAZNAS 2023 adalah beasiswa persiapan melanjutkan pendidikan tinggi ke Kampus PTN/Favorit di tahun 2024 bagi para santri kelas XII MA/Sederajat. Beasiswa diajukan oleh pihak pesantren.
+.</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="../assets/img/about.jpg" class="img-fluid" alt="">
