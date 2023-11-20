@@ -1,5 +1,5 @@
 <?php
- include 'koneksi.php';
+include 'koneksi.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST['username'];
@@ -8,8 +8,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = mysqli_real_escape_string($conn, $username);
     $password = mysqli_real_escape_string($conn, $password);
 
-    $stmt = $conn->prepare("SELECT * FROM users WHERE username=? AND password=?");
+    $stmt = $conn->prepare("SELECT * FROM login WHERE username=? AND password=?");
+
+    // Periksa kesalahan pada pernyataan prepare
+    if (!$stmt) {
+        die("Pemersiapkan gagal: " . $conn->error);
+    }
+
     $stmt->bind_param("ss", $username, $password);
+
+    // Periksa kesalahan pada bind_param
+    if (!$stmt) {
+        die("Binding parameter gagal: " . $stmt->error);
+    }
 
     $result = $stmt->execute();
 
@@ -17,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $stmt->store_result();
 
         if ($stmt->num_rows > 0) {
-            header("location: welcome.php");
+            header("location: ../dashboard/index.html");
         } else {
             $error = "Username atau password salah. Silahkan coba lagi!!";
         }
