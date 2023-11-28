@@ -2,44 +2,114 @@
 include 'header.php';
 ?>
 
- 
-    <!-- ======= About Section ======= -->
-    
-<!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
+<main id="main" data-aos="fade-in">
 
-        <div class="row">
-          <div class="col-lg-6 order-1 order-lg-" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/mahasiswa 4.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h6></h6>
-            <p class="fst-italic">
-              Penting untuk mencatat bahwa semua informasi yang disajikan dalam dokumen ini bersumber dari sumber terpercaya dan telah melewati proses verifikasi.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i>ijasah dan Transkrip Nilai </li>
-              <li><i class="bi bi-check-circle"></i>Scan Dokumen  </li>
-              <li><i class="bi bi-check-circle"></i>Tes TEOFL/IELTS </li>
-              <li><i class="bi bi-check-circle"></i>Tes minat-bakat </li>
-              <li><i class="bi bi-check-circle"></i>KTP</li>
-              <li><i class="bi bi-check-circle"></i>Curriculum Vitae (CV)</li>
-              <li><i class="bi bi-check-circle"></i>Surat Rekomendasi</li>
-
-
-            </ul>
-            <p>
-            Beasiswa Terbuka:<br>
-             Jangan lewatkan kesempatan ini untuk meraih gelar akademismu.<br>
-              Daftar sekarang!!
-            </p>
-
-          </div>
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs">
+        <div class="container">
+            <h2>Bimbingan Persiapan Pendaftaran</h2>
         </div>
+    </div><!-- End Breadcrumbs -->
 
-      </div>
-    </section><!-- End About Section -->
+    <!-- ======= Courses Section ======= -->
+    <section id="courses" class="courses">
+        <div class="container" data-aos="fade-up">
+
+            <div class="row" data-aos="zoom-in" data-aos-delay="100">
+
+                <!-- Webinar 1 -->
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="course-item">
+                        <img src="assets/img/webinar1.jpeg" class="img-fluid" width="1000px" alt="...">
+                        <div class="course-content">
+                            <div class="d-flex justify-content-between align-items-center mb-3">
+                                <a href="webinar-details.html"> <h4>Selengkapnya</h4></a>
+                                <p class="price"></p>
+                            </div>
+
+                            <h3>Webinar Diskursus </h3>
+                            <p>Hallo sobat
+
+
+</p>
+                            <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+                                    <img src="assets/img/webinar-logo1.jpg" class="img-fluid" alt="">
+                                    <span>Penyelenggara Webinar A</span>
+                                </div>
+                                <div class="trainer-rank d-flex align-items-center">
+                                    <i class="bx bx-user"></i>&nbsp;100
+                                    &nbsp;&nbsp;
+                                    <i class="bx bx-heart"></i>&nbsp;80
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- End Webinar Item 1 -->
+
+                <!-- Webinar 2 -->
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+                    <div class="course-item">
+                        <img src="assets/img/webinar.jpg" class="img-fluid" alt="...">
+                        <div class="course-content">
+                            <div class="d-flex justify-content-between align-items-center mb-3">
+                                <a href="webinar-details.html"><h4>Selengkapnya</h4></a>
+                                <p class="price"></p>
+                            </div>
+
+                            <h3>webinar persiapan laporan keungan akhir tahun</h3>
+                            <p>Raih Sukses Bisnismu! Ikuti webinar kami dan temukan mengapa laporan keuangan akhir tahun adalah kunci utama untuk pertumbuhan yang berkelanjuta. <br>
+                        Sumber Informasi Instagram <br>
+                        @webinar_nasional<br>
+                        </p>
+                            <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+                                    <img src="assets/img/webinar-logo2.jpg" class="img-fluid" alt="">
+                                    <span>Penyelenggara Webinar B</span>
+                                </div>
+                                <div class="trainer-rank d-flex align-items-center">
+                                    <i class="bx bx-user"></i>&nbsp;80
+                                    &nbsp;&nbsp;
+                                    <i class="bx bx-heart"></i>&nbsp;90
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- End Webinar Item 2 -->
+
+                <!-- Webinar 3 -->
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+                    <div class="course-item">
+                        <img src="assets/img/webinar2.jpeg" class="img-fluid" alt="...">
+                        <div class="course-content">
+                            <div class="d-flex justify-content-between align-items-center mb-3">
+                                <a href="webinar-details.html"><h4>Selengkapnya</h4></a>
+                                <p class="price"></p>
+                            </div>
+
+                            <h3>Webinar Higher Education Plannimg</h3>
+                            <p></p>
+                            <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+                                    <img src="assets/img/webinar-logo3.jpg" class="img-fluid" alt="">
+                                    <span>Penyelenggara Webinar C</span>
+                                </div>
+                                <div class="trainer-rank d-flex align-items-center">
+                                    <i class="bx bx-user"></i>&nbsp;120
+                                    &nbsp;&nbsp;
+                                    <i class="bx bx-heart"></i>&nbsp;75
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- End Webinar Item 3 -->
+
+            </div>
+
+        </div>
+    </section><!-- End Webinar Section -->
+
+</main><!-- End #main -->
 
 <?php
 include 'footer.php';
