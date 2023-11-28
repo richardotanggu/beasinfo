@@ -8,35 +8,26 @@
       <div class="col-lg-3 col-md-6 footer-contact">
         <h3>Mentor</h3>
         <p>
-          A108 Adam Street <br>
-          New York, NY 535022<br>
-          United States <br><br>
-          <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@example.com<br>
+          SMKN 1 GUNUNGPUTRI<br>
+          Jl. Barokah No.6, Wanaherang, Kec. Gn. Putri, 16965<br>
+          Kabupaten Bogor, Jawa Barat <br><br>
+          <strong>Telp:</strong> (021)8673310<br>
+          <strong>Situs:</strong> smkn1gnputri.sch.id<br>
         </p>
       </div>
 
       <div class="col-lg-2 col-md-6 footer-links">
-        <h4>Useful Links</h4>
+        <h4>Links</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.php">Beranda</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="info.php">Info Beasiswa</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="dokumen.php">Bimbingan Persiapan</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="webinar.php">Event</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="about.php">Tentang</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="login/login.php">Login</a></li>
         </ul>
       </div>
 
-      <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Our Services</h4>
-        <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-        </ul>
-      </div>
 
       <div class="col-lg-4 col-md-6 footer-newsletter">
         <h4>Join Our Newsletter</h4>
