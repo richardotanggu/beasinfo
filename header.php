@@ -51,13 +51,7 @@
         <ul>
           <li><a class="" href="index.php">Beranda</a></li>
           <li><a href="info.php">Info Beasiswa</a></li>
-          <li class="dropdown"><a href="#"><span>Bimbingan Persiapan Pendaftaran</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="dokumen.php">Persiapan Dokumen</a></li>
-              <li><a href="tesbeasiswa.php">Tes Beasiswa</a></li>
-              <li><a href="teswawancara.php">Tes Wawancara</a></li>
-            </ul>
-          </li>
+          <li><a href="dokumen.php"><span>Bimbingan Persiapan Pendaftaran</span> </a></li>
           <li class="dropdown"><a href="#"><span>Event</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="webinar.php">Webinar</a></li>
