@@ -10,7 +10,7 @@ include 'header.php';
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/mahasiswa 5.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h6></h6>
@@ -19,17 +19,16 @@ include 'header.php';
             Beasiswa adalah bantuan pendidikan bagi siswa berprestasi dalam bentuk bantuan biaya atau potongan biaya. 
 
             </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i>ME </li>
-              <li><i class="bi bi-check-circle"></i>Scan Dokumen  </li>
-              <li><i class="bi bi-check-circle"></i>Tes TEOFL/IELTS </li> <br>
-              <p class="fst-italic">
+            <p class="fst-italic">
               Bagaimana Cara Menggunakan Website Kami:
             </p>
-              <li><i class="bi bi-check-circle"></i>Tes minat-bakat </li>
-              <li><i class="bi bi-check-circle"></i>KTP</li>
-              <li><i class="bi bi-check-circle"></i>Curriculum Vitae (CV)</li>
-              <li><i class="bi bi-check-circle"></i>Surat Rekomendasi</li>
+            <ul>
+              <li><i class="bi bi-check-circle"></i>Masuk ke beranda Terdapat beberapa menu yaitu,  </li>
+              <li><i class="bi bi-check-circle"></i>Info Beasiswa (Disini kita bisa melihat info-info seputar beasiswa dari berbagai kampus). </li>
+              <li><i class="bi bi-check-circle"></i>Bimbingan persiapan pendaftaran (Terdapat 3 elemen yaitu: persiapan dokumen, tes beasiswa, dan ada tes wawancara). </li>
+              <li><i class="bi bi-check-circle"></i>Event ( Di menu ini terdapat webinar atau seputar informasi - informasi berkaitan dengan zoom dari kampus - kampus yang mengadakan webinar tersebut). </li>
+              <li><i class="bi bi-check-circle"></i>Tentang (Berisi tentang seputar aplikasi atau website yang kami buat). </li> <br>
+              <li><i class="bi bi-check-circle"></i>Login( admin login untuk mengupdate info beasiswa yang sudah lama dan mempublikasikan yang baru, selain itu juga dapat mengupdate webinar). </li>
 
 
             </ul>
