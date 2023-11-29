@@ -36,11 +36,11 @@
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="pages/widgets.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="index.php" class="nav-link ">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
-                Widgets
-                <span class="right badge badge-danger">New</span>
+                Dashboard
+                
               </p>
             </a>
           </li>
@@ -55,13 +55,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="pages/layout/top-nav.html" class="nav-link">
+                <a href="beasinfo.php" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Data Beasinfo</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="pages/layout/top-nav-sidebar.html" class="nav-link">
+                <a href="event.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Data Event</p>
                 </a>
