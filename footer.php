@@ -30,8 +30,8 @@
 
 
       <div class="col-lg-4 col-md-6 footer-newsletter">
-        <h4>Join Our Newsletter</h4>
-        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+        <h4>Kritik Dan Saran</h4>
+        <p>Berikan kritik dan saran terbaik kalian untuk aplikasi ini</p>
         <form action="" method="post">
           <input type="email" name="email"><input type="submit" value="Subscribe">
         </form>
@@ -55,14 +55,6 @@
       Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
     </div>
   </div>
-  <div class="social-links text-center text-md-right pt-3 pt-md-0">
-    <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-    <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-    <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-    <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-    <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-  </div>
-</div>
 </footer><!-- End Footer -->
 
 <div id="preloader"></div>

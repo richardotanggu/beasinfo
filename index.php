@@ -53,8 +53,8 @@ include 'header.php';
             <div class="member">
               <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Walter White</h4>
-                <span>Web Development</span>
+                <h4>Arianto Imanuel R.M.B</h4>
+                <span>QA Tester</span>
                 <p>
                   Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
                 </p>
@@ -72,8 +72,8 @@ include 'header.php';
             <div class="member">
               <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Sarah Jhinson</h4>
-                <span>Marketing</span>
+                <h4>Fitriana Oktavia Ramadhani</h4>
+                <span>Front End</span>
                 <p>
                   Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
                 </p>
@@ -91,8 +91,8 @@ include 'header.php';
             <div class="member">
               <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>William Anderson</h4>
-                <span>Content</span>
+                <h4>Muhammad Soleh</h4>
+                <span>System Analist</span>
                 <p>
                   Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
                 </p>
@@ -108,6 +108,65 @@ include 'header.php';
 
         </div>
 
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Lilis Mardiani</h4>
+                <span>UI/UX</span>
+                <p>
+                  Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                </p>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Richardo Tanggu Solo</h4>
+                <span>Back End</span>
+                <p>
+                  Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                </p>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Fauzia Camelia</h4>
+                <span>Database</span>
+                <p>
+                  Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                </p>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
       </div>
     </section><!-- End Trainers Section -->
 
