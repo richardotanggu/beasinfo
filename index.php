@@ -109,7 +109,7 @@ include 'header.php';
               <img src="assets/img/trainers/richardo.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Richardo Tanggu Solo</h4>
-                <span>Back End</span>
+                <span>Front End & Back End</span>
                 <p>
                   Jadilah dirimu sendiri karena tidak ada yang mau jadi dirimu
                 </p>
