@@ -7,7 +7,7 @@ include 'header.php';
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
         <div class="container">
-            <h2>Bimbingan Persiapan Pendaftaran</h2>
+            <h2>Info Webinar</h2>
         </div>
     </div><!-- End Breadcrumbs -->
 
@@ -20,27 +20,24 @@ include 'header.php';
                 <!-- Webinar 1 -->
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="course-item">
-                        <img src="assets/img/webinar1.jpeg" class="img-fluid" width="1000px" alt="...">
+                        <img src="assets/img/Reguler.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
                                 <a href="webinar-details.html"> <h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
-                            <h3>Webinar Diskursus </h3>
-                            <p>Hallo sobat
+                            <h3>Kelas Reguler</h3>
+                            <p>🌟 *Bimbingan Persiapan Beasiswa: Sukses Meraih Pendidikan Impian* 🌟 <br>
 
+                                🎓 *Hello Aspiring Scholars!* <br>
 
-</p>
+                                📢 *Beasinfo* mengundang Anda untuk bergabung dalam program bimbingan persiapan beasiswa yang disesuaikan dengan kebutuhan Anda. Pilih jenis kelas yang sesuai, baik kelas reguler, kelas medium, atau kelas intensif, dan raih sukses meraih beasiswa impian Anda!
+                            </p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/webinar-logo1.jpg" class="img-fluid" alt="">
                                     <span>Penyelenggara Webinar A</span>
-                                </div>
-                                <div class="trainer-rank d-flex align-items-center">
-                                    <i class="bx bx-user"></i>&nbsp;100
-                                    &nbsp;&nbsp;
-                                    <i class="bx bx-heart"></i>&nbsp;80
                                 </div>
                             </div>
                         </div>
@@ -50,27 +47,24 @@ include 'header.php';
                 <!-- Webinar 2 -->
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                     <div class="course-item">
-                        <img src="assets/img/webinar.jpg" class="img-fluid" alt="...">
+                        <img src="assets/img/Medium.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
                                 <a href="webinar-details.html"><h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
-                            <h3>webinar persiapan laporan keungan akhir tahun</h3>
-                            <p>Raih Sukses Bisnismu! Ikuti webinar kami dan temukan mengapa laporan keuangan akhir tahun adalah kunci utama untuk pertumbuhan yang berkelanjuta. <br>
-                        Sumber Informasi Instagram <br>
-                        @webinar_nasional<br>
-                        </p>
+                            <h3>Kelas Medium</h3>
+                            <p>🌟 *Bimbingan Persiapan Beasiswa: Sukses Meraih Pendidikan Impian* 🌟 <br>
+
+                                🎓 *Hello Aspiring Scholars!* <br>
+
+                                📢 *Beasinfo* mengundang Anda untuk bergabung dalam program bimbingan persiapan beasiswa yang disesuaikan dengan kebutuhan Anda. Pilih jenis kelas yang sesuai, baik kelas reguler, kelas medium, atau kelas intensif, dan raih sukses meraih beasiswa impian Anda!
+                            </p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/webinar-logo2.jpg" class="img-fluid" alt="">
                                     <span>Penyelenggara Webinar B</span>
-                                </div>
-                                <div class="trainer-rank d-flex align-items-center">
-                                    <i class="bx bx-user"></i>&nbsp;80
-                                    &nbsp;&nbsp;
-                                    <i class="bx bx-heart"></i>&nbsp;90
                                 </div>
                             </div>
                         </div>
@@ -80,24 +74,24 @@ include 'header.php';
                 <!-- Webinar 3 -->
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
                     <div class="course-item">
-                        <img src="assets/img/webinar2.jpeg" class="img-fluid" alt="...">
+                        <img src="assets/img/Intensif.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
                                 <a href="webinar-details.html"><h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
-                            <h3>Webinar Higher Education Plannimg</h3>
-                            <p></p>
+                            <h3>Kelas Intensif</h3>
+                            <p>🌟 *Bimbingan Persiapan Beasiswa: Sukses Meraih Pendidikan Impian* 🌟 <br>
+
+                                🎓 *Hello Aspiring Scholars!* <br>
+
+                                📢 *Beasinfo* mengundang Anda untuk bergabung dalam program bimbingan persiapan beasiswa yang disesuaikan dengan kebutuhan Anda. Pilih jenis kelas yang sesuai, baik kelas reguler, kelas medium, atau kelas intensif, dan raih sukses meraih beasiswa impian Anda!
+                            </p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/webinar-logo3.jpg" class="img-fluid" alt="">
                                     <span>Penyelenggara Webinar C</span>
-                                </div>
-                                <div class="trainer-rank d-flex align-items-center">
-                                    <i class="bx bx-user"></i>&nbsp;120
-                                    &nbsp;&nbsp;
-                                    <i class="bx bx-heart"></i>&nbsp;75
                                 </div>
                             </div>
                         </div>
