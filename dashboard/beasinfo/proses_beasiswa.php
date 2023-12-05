@@ -1,4 +1,5 @@
 <?php
+
     include 'fungsi_beasiswa.php';
 
     if(isset($_POST['aksi'])){
@@ -7,6 +8,7 @@
             $berhasil = tambah_data($_POST, $_FILES);
 
             if($berhasil){
+                 $_SESSION['berhasil'] = 'Berhasil Menambah Data Ya';
                 header("location: beasiswa.php");
             } else {
                 echo $berhasil;
@@ -17,6 +19,7 @@
             $berhasil = ubah_data($_POST, $_FILES); 
 
             if($berhasil){
+                 $_SESSION['berhasil'] = 'Berhasil Mengubah Data';
                 header("location: beasiswa.php");
             } else {
                 echo $berhasil;
@@ -43,6 +46,7 @@
         $sql = mysqli_query($conn, $query);
 
         if($sql){
+             $_SESSION['berhasil'] = 'Berhasil Menghapus Data';
             header("location: beasiswa.php");
             //echo "Data Berhasil Ditambahkan <a href='index.php'>[Home]</a>";
         } else {
