@@ -28,7 +28,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $stmt->store_result();
 
         if ($stmt->num_rows > 0) {
+<<<<<<< HEAD
             header("location: ../dashboard/");
+=======
+            header("location: ../dashboard/index.php");
+>>>>>>> 3aa6582c5a2a0a2a048c61b2e22f5f3af78fc6c6
         } else {
             $error = "Username atau password salah. Silahkan coba lagi!!";
         }
