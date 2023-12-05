@@ -1,4 +1,5 @@
 <?php
+session_start();
 include '../../db/koneksi.php';
  $id_beasiswa = '';
         $jenis_beasiswa = '';
@@ -38,6 +39,8 @@ include '../../db/koneksi.php';
   <link rel="stylesheet" href="../plugins/fontawesome-free/css/all.min.css">
   <!-- Font Awesome -->
         <link rel="stylesheet" href="../fontawesome/css/font-awesome.min.css">
+        <!-- Sweetalert2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
   <!-- DataTables -->
   <link rel="stylesheet" href="../plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
@@ -48,3 +51,18 @@ include '../../db/koneksi.php';
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
+
+<?php 
+if (isset($_SESSION['berhasil'])) {
+  echo '<script>';
+  echo 'Swal.fire({';
+  echo '    position: "center",';
+  echo '    icon: "success",';
+  echo '    title: "' . $_SESSION['berhasil'] . '",';
+  echo '    showConfirmButton: false,';
+  echo '    timer: 3000'; //Ini 3 detik
+  echo '});';
+  echo '</script>';
+  unset($_SESSION['berhasil']); // Hapus pesan dari session
+}
+?>
