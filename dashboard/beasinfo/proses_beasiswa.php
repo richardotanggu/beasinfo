@@ -8,7 +8,7 @@
             $berhasil = tambah_data($_POST, $_FILES);
 
             if($berhasil){
-                 $_SESSION['berhasil'] = 'Berhasil Menambah Data';
+                 $_SESSION['berhasil'] = 'Berhasil Menambah Data Ya';
                 header("location: beasiswa.php");
             } else {
                 echo $berhasil;
