@@ -7,7 +7,7 @@ include 'header.php';
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
         <div class="container">
-            <h2>Info Webinar</h2>
+            <h2>Info Bimbingan Persiapan Pendaftaran</h2>
         </div>
     </div><!-- End Breadcrumbs -->
 
@@ -23,7 +23,7 @@ include 'header.php';
                         <img src="assets/img/Reguler.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                                <a href="detail-event.php"> <h4>Selengkapnya</h4></a>
+                                <a href="detail-bimbingan1.php"> <h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
@@ -37,7 +37,7 @@ include 'header.php';
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/webinar-logo1.jpg" class="img-fluid" alt="">
-                                    <span>Penyelenggara Webinar A</span>
+                                    <span>Penyelenggara Bimbingan A</span>
                                 </div>
                             </div>
                         </div>
@@ -50,7 +50,7 @@ include 'header.php';
                         <img src="assets/img/Medium.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                                <a href="detail-event.php"><h4>Selengkapnya</h4></a>
+                                <a href="detail-bimbingan2.php"><h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
@@ -64,7 +64,7 @@ include 'header.php';
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/webinar-logo2.jpg" class="img-fluid" alt="">
-                                    <span>Penyelenggara Webinar B</span>
+                                    <span>Penyelenggara Bimbingan B</span>
                                 </div>
                             </div>
                         </div>
@@ -77,7 +77,7 @@ include 'header.php';
                         <img src="assets/img/Intensif.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                                <a href="detail-event.php"><h4>Selengkapnya</h4></a>
+                                <a href="detail-bimbingan3.php"><h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
@@ -91,7 +91,7 @@ include 'header.php';
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/webinar-logo3.jpg" class="img-fluid" alt="">
-                                    <span>Penyelenggara Webinar C</span>
+                                    <span>Penyelenggara Bimbingan C</span>
                                 </div>
                             </div>
                         </div>

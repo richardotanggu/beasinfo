@@ -28,7 +28,7 @@ include 'header.php';
                             </div>
 
                             <h3>Beasiswa Baznas S-1 di Cimahi</h3>
-                            <p>Badan Amil Zakat Nasional (BAZNAS) membuka Beasiswa Cendekia BAZNAS (BCB) Dalam Negeri bagi tingkat Diploma-IV (D4) dan sarjana (S1) yang sedang menempuh studi (ongoing) di kampus mitra Beasiswa BAZNAS.</p>
+                            <p>Badan Amil Zakat Nasionalw (BAZNAS) membuka Beasiswa Cendekia BAZNAS (BCB) Dalam Negeri bagi tingkat Diploma-IV (D4) dan sarjana (S1) yang sedang menempuh studi (ongoing) di kampus mitra Beasiswa BAZNAS.</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/beasiswa-logo-1.jpg" class="img-fluid" alt="">
@@ -56,8 +56,7 @@ include 'header.php';
 
                             <h3>Beasiswa Telkom University 2024</h3>
                             <p>Detail Pendaftaran mulai dari timeline dan persyaratan kamu bisa geser pada postingan di atas yaa. Jangan sampai ke skip, siapa tahu kamu jadi salah satu yang beruntung!
-
-Beasiswa ini berlangsung mulai tanggal 6 November - 10 Desember 2024</p>
+                            Beasiswa ini berlangsung mulai tanggal 6 November - 10 Desember 2024</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="assets/img/beasiswa-logo-2.jpg" class="img-fluid" alt="">
@@ -84,8 +83,7 @@ Beasiswa ini berlangsung mulai tanggal 6 November - 10 Desember 2024</p>
                             </div>
 
                             <h3>Beasiswa Santri Baznas 2023</h3>
-                            <p>Beasiswa Santri BAZNAS 2023 adalah beasiswa persiapan melanjutkan pendidikan tinggi ke Kampus PTN/Favorit di tahun 2024 bagi para santri kelas XII MA/Sederajat. Beasiswa diajukan oleh pihak pesantren.
-.</p>
+                            <p>Beasiswa Santri BAZNAS 2023 adalah beasiswa persiapan melanjutkan pendidikan tinggi ke Kampus PTN/Favorit di tahun 2024 bagi para santri kelas XII MA/Sederajat. Beasiswa diajukan oleh pihak pesantren.</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
                                     <img src="../assets/img/about.jpg" class="img-fluid" alt="">
