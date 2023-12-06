@@ -23,7 +23,7 @@ include 'header.php';
                         <img src="assets/img/pendaftaran1.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                                <a href="beasiswa-details.html"> <h4>Selengkapnya</h4></a>
+                                <a href="detail-beasiswa.php"> <h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
@@ -50,7 +50,7 @@ include 'header.php';
                         <img src="assets/img/beasinfo2.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                            <a href="beasiswa-details.html"><h4>Selengkapnya</h4></a>
+                            <a href="detail-beasiswa2.php"><h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
@@ -79,7 +79,7 @@ Beasiswa ini berlangsung mulai tanggal 6 November - 10 Desember 2024</p>
                         <img src="assets/img/beasinfo 3.png" class="img-fluid" alt="...">
                         <div class="course-content">
                             <div class="d-flex justify-content-between align-items-center mb-3">
-                            <a href="beasiswa-details.html"><h4>Selengkapnya</h4></a>
+                            <a href="detail-beasiswa3.php"><h4>Selengkapnya</h4></a>
                                 <p class="price"></p>
                             </div>
 
