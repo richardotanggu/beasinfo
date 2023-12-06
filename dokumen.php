@@ -7,7 +7,7 @@ include 'header.php';
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
         <div class="container">
-            <h2>Info Webinar</h2>
+            <h2>Bimbingan Persiapan Pendaftaran</h2>
         </div>
     </div><!-- End Breadcrumbs -->
 
