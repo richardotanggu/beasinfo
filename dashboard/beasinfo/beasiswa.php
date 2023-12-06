@@ -68,7 +68,7 @@ include '../layouts/sidebar.php';
                         <a href="kelola_beasiswa.php?ubah=<?php echo $result['id_beasiswa']; ?>" type="button" class="btn btn-success btn-sm">
                             <i class="fa fa-pencil"></i>
                         </a>
-                        <a href="proses_beasiswa.php?hapus=<?php echo $result['id_beasiswa']; ?>" type="button" class="btn btn-danger btn-sm" onClick="return confirm('Apakah anda yakin ingin menghapus data tersebut???')">
+                        <a href="proses_beasiswa.php?hapus=<?php echo $result['id_beasiswa']; ?>" type="button" class="btn btn-danger btn-sm" onClick="return confirm('Apakah anda yakin ingin menghapus data tersebut?')">
                             <i class="fa fa-trash"></i>
                         </a>
                     </td>
@@ -77,15 +77,6 @@ include '../layouts/sidebar.php';
                       }
                   ?>
                  </tbody>
-                  <tfoot>
-                  <tr>
-                    <th>No</th>
-                   <th>Jenis Beasiswa</th>
-                    <th>foto Beasiswa</th>
-                    <th>Keterangan</th>
-                    <th>Aksi</th>
-                  </tr>
-                  </tfoot>
                 </table>
               </div>
               <!-- /.card-body -->

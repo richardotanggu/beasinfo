@@ -10,7 +10,7 @@ include 'header.php';
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/webinar-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/webinar-2.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h6></h6>
