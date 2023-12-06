@@ -51,7 +51,7 @@ include 'header.php';
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/trainers/ari.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Arianto Imanuel R.M.B</h4>
                 <span>QA Tester</span>
@@ -77,7 +77,7 @@ include 'header.php';
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/trainers/soleh.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Muhammad Soleh</h4>
                 <span>System Analist</span>
