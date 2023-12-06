@@ -9,7 +9,8 @@ include 'header.php';
         <div class="container">
             <h2>Info Bimbingan Persiapan Pendaftaran</h2>
         </div>
-    </div><!-- End Breadcrumbs -->
+    </div>
+    <!-- End Breadcrumbs -->
 
     <!-- ======= Courses Section ======= -->
     <section id="courses" class="courses">
